@@ -10676,9 +10676,9 @@ namespace Tqdev\PhpCrudApi {
     use Tqdev\PhpCrudApi\ResponseUtils;
 
     $config = new Config([
-        'username' => 'roots',
+        'username' => 'root',
         'password' => 'root',
-        'database' => 'darsi'
+        'database' => 'bet'
     ]);
     $request = RequestFactory::fromGlobals();
     $api = new Api($config);
