@@ -1,17 +1,5 @@
 <?php
-/**
- * PHP-CRUD-API v2              License: MIT
- * Maurits van der Schee: maurits@vdschee.nl
- * https://github.com/mevdschee/php-crud-api
- *
- * Dependencies:
- * - vendor/psr/*: PHP-FIG
- *   https://github.com/php-fig
- * - vendor/nyholm/*: Tobias Nyholm
- *   https://github.com/Nyholm
- **/
 
-// file: vendor/psr/http-factory/src/RequestFactoryInterface.php
 namespace Psr\Http\Message {
 
     interface RequestFactoryInterface
